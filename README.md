@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ouizzy 👋
 
-<!--
-**wizzymore/wizzymore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student and Developer!
+- I'm currently working on Web Development
+- I have knowledge of software development
+- I'm looking for new and fun open source projects
+- My goal: Contribute more to Github Open Source Projects!
 
-Here are some ideas to get you started:
+### Connect with me:
+[<img align="left" alt="Ouizzy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/cristian.bilu/]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats:
+<img align="left" alt="Ouizzy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wizzymore&show_icons=true&hide_border=true" />
