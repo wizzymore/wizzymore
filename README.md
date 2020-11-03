@@ -1,4 +1,4 @@
-### Hi there, I'm Ouizzy 👋
+### Hi there, I'm WiZZy 👋
 
 ## I'm a Student and Developer!
 - I'm currently working on Web Development
