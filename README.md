@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ITAM ( IT Assets Manager )](https://github.com/wizzymore/itam-tall)
 
-- 🌱 I’m currently learning **Laravel, Vue, Livewire, AlpineJS**
+- 🌱 I’m currently learning **Laravel ( Back-end ), React ( Front-end )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
