@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian ( EPTIC )</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 
-- 🔭 I’m currently working on [ITAM ( IT Assets Manager )](https://github.com/wizzymore/itam-tall)
-
-- 🌱 I’m currently learning **Laravel ( Back-end ), Vue.js ( Front-end )**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wizzymore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wizzymore" height="30" width="40" /></a>
