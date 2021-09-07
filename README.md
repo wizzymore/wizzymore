@@ -2,7 +2,7 @@
 
 - 🔭 currently working on JAMstack content!
 - 🌱 currently learning Next.js, typescript, Express & Laravel
-- 👨🏼‍💻 building bradgarropy.com
+- 👨🏼‍💻 building eptic.ro
 - 💜 loving react, vue, jamstack
 
 🏡 [website][website] **|** 
