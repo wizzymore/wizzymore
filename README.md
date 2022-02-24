@@ -1,9 +1,7 @@
-## Hi, I'm Christian 👋 I'm a full-stack passionate Developer!
+## Hi, I'm Christian 👋 I'm a full-stack passionate Web Developer!
 
-- 🔭 currently working on JAMstack content!
-- 🌱 currently learning Next.js, typescript, Express & Laravel
-- 👨🏼‍💻 building eptic.ro
-- 💜 loving react, vue, jamstack
+- ❤️ currently in love with React and Laravel
+- 🌱 continuously learning Next.js, Typescript & Laravel
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -15,7 +13,6 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 
 [website]: https://eptic.ro
 [twitter]: https://twitter.com/CristianBilu
-[twitch]: https://twitch.tv/jamesqquick
 [linkedin]: https://www.linkedin.com/in/cristian-bilu/
 [npm]: https://npmjs.com/~wizzymore
 [npm-eptic]: https://npmjs.com/~eptic
