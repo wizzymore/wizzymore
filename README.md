@@ -7,6 +7,7 @@
 🐦 [twitter][twitter] **|** 
 📦 [npm][npm] **|** 
 📦 [npm - eptic][npm-eptic] **|** 
+📦 [packagist - eptic][packagist-eptic] **|** 
 👔 [linkedin][linkedin]
 
 Shoutout to [Brad Garropy][brad] for the inspiration!
@@ -16,4 +17,5 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 [linkedin]: https://www.linkedin.com/in/cristian-bilu/
 [npm]: https://npmjs.com/~wizzymore
 [npm-eptic]: https://npmjs.com/~eptic
+[packagist-eptic]: https://packagist.org/packages/eptic/
 [brad]: https://bradgarropy.com/
