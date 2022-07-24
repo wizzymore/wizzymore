@@ -10,8 +10,6 @@
 📦 [packagist - eptic][packagist-eptic] **|** 
 👔 [linkedin][linkedin]
 
-Shoutout to [Brad Garropy][brad] for the inspiration!
-
 [website]: https://eptic.ro
 [twitter]: https://twitter.com/CristianBilu
 [linkedin]: https://www.linkedin.com/in/cristian-bilu/
