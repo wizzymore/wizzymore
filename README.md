@@ -1,7 +1,4 @@
-## Hi, I'm Christian 👋 I'm a full-stack passionate Web Developer!
-
-- ❤️ currently in love with React and Laravel
-- 🌱 continuously learning Next.js, Typescript & Laravel
+## Hi, I'm Cristian 👋 I'm a full-stack, passionate, Web Developer!
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
