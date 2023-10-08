@@ -1,4 +1,4 @@
-## Hi, I'm Cristian 👋 a Software Engineer based in Romania.
+## Hi, I'm Cristian 👋 a Senior Programmer based in Romania.
 
 Where you will find me:
 🏡 [website][website] **|** 
@@ -9,7 +9,7 @@ Where you will find me:
 👔 [linkedin][linkedin]
 
 Currently working for: [HERMIX][hermix]  
-My current position: Senior Software Engineer & Team Leader  
+My current position: Lead Programmer  
 My company: [EPTIC][github-eptic]
 
 [website]: https://eptic.ro
