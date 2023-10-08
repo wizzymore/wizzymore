@@ -13,7 +13,7 @@ My current position: Senior Software Engineer & Team Leader
 My company: [EPTIC][github-eptic]
 
 [website]: https://eptic.ro
-[twitter]: https://twitter.com/CristianBilu
+[twitter]: https://twitter.com/cristianeptic
 [linkedin]: https://www.linkedin.com/in/cristian-bilu/
 [npm]: https://npmjs.com/~wizzymore
 [npm-eptic]: https://npmjs.com/~eptic
